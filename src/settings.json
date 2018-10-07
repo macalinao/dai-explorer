@@ -1,5 +1,5 @@
 {
-  "nodeURL" : "https://rpc3.makerdao.com",
+  "nodeURL" : "https://kovan.infura.io",
   "CDPsPerPage": 15,
   "chain": {
     "private": {
